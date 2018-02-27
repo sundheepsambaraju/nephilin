@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1
+{
+	text-align:center;
+	font-size:24px;
+	font-style:italic;
+	color:#F30;
+	background-color:#C30;
+}
+#asa
+{
+	text-align:left;
+	font-size:18px;
+	font-style:normal;
+	color:#FC0;
+
+}
+#tabpro
+{
+	font:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#FF0;
+}
+#d1
+{
+	position:absolute;
+	bottom:0px;	 
+}
+#img
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+}
+.div
+{
+	background-color:#FFF;
+	height:40px;
+	width:auto;
+}
+.main
+{
+	font-size:24px;
+	color:#CCC;
+}
+.box
+{
+	background-color:#03F;
+	width:150px;
+	transition:width 2s;
+	
+	
+}
+.box:hover
+{
+	width:300px;
+}
+
+	
